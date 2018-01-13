@@ -1,0 +1,13 @@
+npm install -g create-react-app
+create-react-app my-app
+
+ // yarn add --dev eslint prettier eslint-config-airbnb@^15.0.1 eslint-config-prettier eslint-plugin-prettier eslint-plugin-react eslint-plugin-import eslint-plugin-jsx-a11y@^5.1.1
+
+package.json:  "lint": "eslint src"
+registerServiceWorker: /* eslint-disable */
+yarn run lint
+
+yarn add react-router
+yarn add react-router-dom
+
+yarn start
