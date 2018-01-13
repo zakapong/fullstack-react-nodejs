@@ -11,3 +11,7 @@ yarn add react-router
 yarn add react-router-dom
 
 yarn start
+
+https://react.semantic-ui.com/introduction
+yarn add semantic-ui-react
+semantic-ui-css
