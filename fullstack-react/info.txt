@@ -15,3 +15,17 @@ yarn start
 https://react.semantic-ui.com/introduction
 yarn add semantic-ui-react
 semantic-ui-css
+yarn add validator
+yarn add prop-types
+
+yarn add redux react-redux redux-thunk
+
+yarn add --dev redux-devtools-extension
+
+yarn add axios
+
+
+fullstack-nodejs folder
+yarn init
+yarn start
+yarn add --dev babel-cli babel-preset-env
