@@ -41,3 +41,11 @@ yarn add bcrypt
 yarn add jsonwebtoken
 yarn add dotenv for database
 yarn add bluebird for monggode deprication resolve
+yarn add mongoose-unique-validator
+yarn add lodash
+
+nodemailer
+mailtrap for sending emails.
+yarn add nodemailer
+
+mongodb copass software
