@@ -15,6 +15,8 @@ class LoginPage extends React.Component {
         <h1>Login page</h1>
 
         <LoginForm submit={this.submit} />
+        
+        <Link to="/forgot_password">Forgot Password?</Link>
 
        
       </div>

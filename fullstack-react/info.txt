@@ -49,3 +49,17 @@ mailtrap for sending emails.
 yarn add nodemailer
 
 mongodb copass software
+
+
+
+
+reset pass:
+login page add link to forgotpass
+now app.js file
+forgot password page
+form
+then forgotpassword to auth.js
+then api.js
+
+mongodb: 
+C:\Program Files\MongoDB\Server\3.4\bin>mongod.exe --dbpath /Users/rd-zma/mongo-data
